@@ -1,0 +1,16 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.game {
+  height: 100vh;
+  width: 100vw;
+  /* overflow: hidden; */
+  background-color: rgb(121, 29, 175);
+}
+
+canvas {
+  background-color: red;
+}
